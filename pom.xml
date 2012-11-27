@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.joshpeters</groupId>
 	<artifactId>ng-breadcrumbs</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -18,8 +18,8 @@
 		</plugins>
 	</build>
 	<scm>
-		<connection>scm:git:https://github.com/enricopulatzo/ng-breadcrumbs</connection>
-		<developerConnection>scm:git:ssh://github.com/enricopulatzo/ng-breadcrumbs</developerConnection>
+		<connection>scm:git:git@github.com:enricopulatzo/ng-breadcrumbs.git</connection>
+		<developerConnection>scm:git:git@github.com:enricopulatzo/ng-breadcrumbs.git</developerConnection>
 		<url>https://github.com/enricopulatzo/ng-breadcrumbs</url>
 	</scm>
 </project>
